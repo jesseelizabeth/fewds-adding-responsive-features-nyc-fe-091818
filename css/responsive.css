@@ -73,6 +73,10 @@
   #logo h2 {
     display: none;
   }
+  #social {
+    position: fixed;
+    top: 0;
+  }
 }
 
 
