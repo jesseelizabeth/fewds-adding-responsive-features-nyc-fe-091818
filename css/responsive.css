@@ -75,7 +75,11 @@
   }
   #social {
     position: fixed;
-    top: 44px;
+    top: 0;
+  }
+  #logo h2 {
+    position: fixed;
+    top: 0;
   }
 }
 
