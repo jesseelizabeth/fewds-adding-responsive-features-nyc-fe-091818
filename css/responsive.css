@@ -66,8 +66,9 @@
   }
   .menu-icon {
     position: fixed;
-    left: 0;
     top: 0;
+    left: 0;
+    width: 100%;
   }
   #logo h2 {
     display: none;
